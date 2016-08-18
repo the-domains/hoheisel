@@ -20,16 +20,14 @@ keywords:
 description: Include this LinkedIn profile on other websites
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/in/joerghoheisel'
 title: Jörg Hoheisel | LinkedIn
-datePublished: '2016-08-18T12:21:43.317Z'
-dateModified: '2016-08-18T12:21:11.803Z'
+datePublished: '2016-08-18T12:22:12.197Z'
+dateModified: '2016-08-18T12:22:10.818Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-jorg-hoheisel-or-linkedin.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: jorg-hoheisel-or-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
