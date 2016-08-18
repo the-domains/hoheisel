@@ -13,8 +13,9 @@ color:
   saturation: 0.6198153380025018
   rhythmicContrast: 0.5884019671280574
 opengraph:
-  type: ''
-  appId: ''
+  type: Screengineers
+  appId: >-
+    EAADSZBd81BVYBALt9qsTZCK8KknmZA7aiHQA6QibLIdifO0To4Rb78aV5h8kZAzbsXD5WDFwpj2cAtthS2a2uNkIYBjvLcwaZCGpOxvZCa2viKziH6oMePxhHOkWlO5jevrtWiP1q9XpZAdsEQLMLbueTznjS74SlUwBx93fGr4ewZDZD
 layout_spectrum: 0.4578623504844711
 author:
   name: 'Jörg Hoheisel '
