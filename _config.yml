@@ -1,9 +1,6 @@
-name: 'Hoheisel '
-layout_spectrum: 0.4578623504844711
 typography_spectrum: 0.7349800875363913
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -15,10 +12,13 @@ color:
   lightness: 0.8035416442349179
   saturation: 0.6198153380025018
   rhythmicContrast: 0.5884019671280574
-title: ''
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.4578623504844711
 author:
   name: 'Jörg Hoheisel '
   url: ''
   email: ''
-content_rating:
-  adult: false
+name: 'Hoheisel '
+title: Jörg Hoheisel
