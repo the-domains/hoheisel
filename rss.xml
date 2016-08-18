@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hoheisel ]]></title>
-        <description><![CDATA[Hoheisel ]]></description>
+        <title><![CDATA[Jörg Hoheisel]]></title>
+        <description><![CDATA[Jörg Hoheisel]]></description>
         <link>https://thegrid.ai/hoheisel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 18:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 12:21:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hoheisel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jörg Hoheisel | LinkedIn]]></title>
+            <description><![CDATA[<article><h1>Jörg Hoheisel | LinkedIn</h1><p>Include this LinkedIn profile on other websites</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f5fff9fa02be3524fe6a77bf78b32b4/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_200_200%2FAAEAAQAAAAAAAAldAAAAJGNhYzg4NGIyLTUyNmItNDg3OS1iMTczLTZmNzRiOGUxMjExNQ.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/in/joerghoheisel</link>
+            <guid isPermaLink="false">79e72727-c41d-406a-9ef8-ab9f11ecba16</guid>
+            <pubDate>Thu, 18 Aug 2016 12:21:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
             <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
