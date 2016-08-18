@@ -21,5 +21,9 @@ author:
   url: ''
   email: ''
 name: 'Hoheisel '
+navigation:
+  - name: LinkedIn Profile
+    id: 79e72727-c41d-406a-9ef8-ab9f11ecba16
+    type: content
 title: Jörg Hoheisel
 description: 'Interaction and User Experience Designer for web, '
